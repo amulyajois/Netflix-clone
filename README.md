@@ -10,8 +10,8 @@ Developed a Netflix clone to demonstrate front-end development skills using HTML
 **CSS Styling**: Custom styles to match the Netflix UI.
 
 ## Technologies Used
-**HTML**: For structuring the content of the web pages.
-**CSS**: For styling and layout.
+-**HTML**: For structuring the content of the web pages.
+-**CSS**: For styling and layout.
 
 ## Installation
 To run this project locally, follow these steps:
